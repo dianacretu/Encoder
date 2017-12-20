@@ -1,0 +1,20 @@
+Efectuarea temei a durat 80 de ore.
+
+Task1: Se salveaza termenii cititi in vectori
+	Se foloseste funtia tipMesaj pentru a determina tipul
+
+Task2:Pentru cuvinte, am creat 2 functii:
+		1. divizor pentru a determina cate caractere se muta
+		2. cea de inversare, folosita cand exista un numar in cuvant
+	Pentru caractere, am creat functia caractere.
+	Aceasta determina intr-un string ce caracter apare de cele mai multe, respectiv cele mai putine ori.
+	Sirul obtinut se concateneaza la mesaj.
+
+	Pentru numere, primul caracter se muta la final.
+	Fiecare numar astfel obtinut se compara cu min, repectiv max.
+
+Task3: Impartirea pe componente cu ajutorul functiei subString.
+	Pentru ordonare, ne folosim de functiile:
+		1.complex, pentru aflarea complexitatii
+		2.order, pentru ordonare in functie de complexitate
+	Formarea unui string prin concatenarea segmentelor 0, n-1, 1 etc
